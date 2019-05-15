@@ -136,3 +136,5 @@ let countriesInSouthAmerica = [
 
     // for (let indexSouthAmerica = 0; indexSouthAmerica < countriesInSouthAmerica.length; indexSouthAmerica++){   
     //     console.log (countriesInSouthAmerica[indexSouthAmerica]) 
+
+    // comment for github
